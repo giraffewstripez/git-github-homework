@@ -3,24 +3,40 @@
     font-family: "Stack Sans Headline", sans-serif;
     color: white;
 }
+a, h1, h2{
+    background-color: transparent;    
+}
+
 
 body{
     background-color: #753BF7;
     display: block;
     width: 100%;
-    height: 80%;
+    height: 1100px;
 }
 
 .layer1{
     background-color: red; 
     display: block;
     width: 100%;
-    height: 50%;
+    height: 550px;
+}
+
+.intro-stmt{
+    display: inline-block;
+    width: 50%;
+    height: 550px;
+}
+.profile-photo{
+    background-image: url(headshotphoto.png);
+    background-repeat: no-repeat;
+    border: 2px solid white;
+    border-radius: 20%;
 }
 
 .layer2{
     background-color: green; 
     display: block;
     width: 100%;
-    height: 50%;
+    height: 550px;
 }
