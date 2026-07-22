@@ -30,6 +30,10 @@ body{
     padding-top: 15%;
     padding-left: 5%;
 }
+img{
+  width: 40px;
+  height: 40px;
+}
 .profile-photo{
     background-color: transparent;
     background-image: url(headshotphoto.png);
@@ -43,9 +47,6 @@ body{
     margin-right: 10%;
     box-shadow: black 20px 20px 30px ;
 }
-
-
-
 .layer2{
     margin-top: 5%;
     background-color: #544087; 
@@ -62,3 +63,4 @@ body{
 .secondary-contact{
     padding-right: 3%
 }
+
